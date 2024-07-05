@@ -1,0 +1,15 @@
+Open5GS daemon v2.7.1
+
+06/26 06:29:42.516: [app] INFO: Configuration: '/etc/open5gs/pcf.yaml' (../lib/app/ogs-init.c:133)
+06/26 06:29:42.516: [app] INFO: File Logging: '/var/log/open5gs/pcf.log' (../lib/app/ogs-init.c:136)
+06/26 06:29:42.519: [metrics] INFO: metrics_server() [http://127.0.0.13]:9090 (../lib/metrics/prometheus/context.c:299)
+06/26 06:29:42.520: [dbi] INFO: MongoDB URI: 'mongodb://localhost/open5gs' (../lib/dbi/ogs-mongoc.c:130)
+06/26 06:29:42.520: [sbi] INFO: NF Service [npcf-am-policy-control] (../lib/sbi/context.c:1841)
+06/26 06:29:42.520: [sbi] INFO: NF Service [npcf-smpolicycontrol] (../lib/sbi/context.c:1841)
+06/26 06:29:42.520: [sbi] INFO: NF Service [npcf-policyauthorization] (../lib/sbi/context.c:1841)
+06/26 06:29:42.523: [sbi] INFO: nghttp2_server() [https://pcf.localdomain]:443 (../lib/sbi/nghttp2-server.c:409)
+06/26 06:29:42.524: [app] INFO: PCF initialize...done (../src/pcf/app.c:31)
+06/26 06:29:42.587: [sbi] INFO: [78fb867e-3385-41ef-a721-5f56ec421add] NF registered [Heartbeat:10s] (../lib/sbi/nf-sm.c:221)
+06/26 06:29:42.589: [sbi] INFO: [79063182-3385-41ef-827f-e5b1481dd427] Subscription created until 2024-06-27T06:29:42.589073+00:00 [duration:86400,validity:86399.999249,patch:43199.999624] (../lib/sbi/nnrf-handler.c:813)
+06/26 06:29:42.590: [sbi] INFO: [790638e4-3385-41ef-827f-e5b1481dd427] Subscription created until 2024-06-27T06:29:42.589262+00:00 [duration:86400,validity:86399.999275,patch:43199.999637] (../lib/sbi/nnrf-handler.c:813)
+06/26 06:29:42.590: [sbi] INFO: [790643ca-3385-41ef-827f-e5b1481dd427] Subscription created until 2024-06-27T06:29:42.589542+00:00 [duration:86400,validity:86399.999347,patch:43199.999673] (../lib/sbi/nnrf-handler.c:813)

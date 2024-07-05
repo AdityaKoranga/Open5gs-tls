@@ -1,0 +1,16 @@
+Open5GS daemon v2.7.1
+
+06/26 06:29:48.443: [app] INFO: Configuration: '/etc/open5gs/scp.yaml' (../lib/app/ogs-init.c:133)
+06/26 06:29:48.443: [app] INFO: File Logging: '/var/log/open5gs/scp.log' (../lib/app/ogs-init.c:136)
+06/26 06:29:48.451: [sbi] INFO: nghttp2_server() [https://scp.localdomain]:443 (../lib/sbi/nghttp2-server.c:409)
+06/26 06:29:48.451: [app] INFO: SCP initialize...done (../src/scp/app.c:31)
+06/26 06:29:48.501: [sbi] INFO: [7c83e2b4-3385-41ef-a252-c380f27f0d9e] NF registered [Heartbeat:10s] (../lib/sbi/nf-sm.c:221)
+06/26 06:29:48.503: [sbi] INFO: [7c8c91b6-3385-41ef-827f-e5b1481dd427] Subscription created until 2024-06-27T06:29:48.502921+00:00 [duration:86400,validity:86399.999476,patch:43199.999738] (../lib/sbi/nnrf-handler.c:813)
+06/26 06:29:48.503: [sbi] INFO: [7c8c9be8-3385-41ef-827f-e5b1481dd427] Subscription created until 2024-06-27T06:29:48.503145+00:00 [duration:86400,validity:86399.999539,patch:43199.999769] (../lib/sbi/nnrf-handler.c:813)
+06/26 06:29:48.503: [sbi] INFO: [7c8ca444-3385-41ef-827f-e5b1481dd427] Subscription created until 2024-06-27T06:29:48.503360+00:00 [duration:86400,validity:86399.999704,patch:43199.999852] (../lib/sbi/nnrf-handler.c:813)
+06/26 06:29:48.504: [sbi] INFO: [7c8caee4-3385-41ef-827f-e5b1481dd427] Subscription created until 2024-06-27T06:29:48.503632+00:00 [duration:86400,validity:86399.999509,patch:43199.999754] (../lib/sbi/nnrf-handler.c:813)
+06/26 06:29:48.504: [sbi] INFO: [7c8cb86c-3385-41ef-827f-e5b1481dd427] Subscription created until 2024-06-27T06:29:48.503874+00:00 [duration:86400,validity:86399.999699,patch:43199.999849] (../lib/sbi/nnrf-handler.c:813)
+06/26 06:29:48.504: [sbi] INFO: [7c8cc032-3385-41ef-827f-e5b1481dd427] Subscription created until 2024-06-27T06:29:48.504075+00:00 [duration:86400,validity:86399.999585,patch:43199.999792] (../lib/sbi/nnrf-handler.c:813)
+06/26 06:29:48.504: [sbi] INFO: [7c8cc8f2-3385-41ef-827f-e5b1481dd427] Subscription created until 2024-06-27T06:29:48.504302+00:00 [duration:86400,validity:86399.999786,patch:43199.999893] (../lib/sbi/nnrf-handler.c:813)
+06/26 06:29:48.504: [sbi] INFO: [7c8ccff0-3385-41ef-827f-e5b1481dd427] Subscription created until 2024-06-27T06:29:48.504475+00:00 [duration:86400,validity:86399.999839,patch:43199.999919] (../lib/sbi/nnrf-handler.c:813)
+06/26 06:29:48.504: [sbi] INFO: [7c8cd702-3385-41ef-827f-e5b1481dd427] Subscription created until 2024-06-27T06:29:48.504653+00:00 [duration:86400,validity:86399.999804,patch:43199.999902] (../lib/sbi/nnrf-handler.c:813)

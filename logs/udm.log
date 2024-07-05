@@ -1,0 +1,12 @@
+Open5GS daemon v2.7.1
+
+06/26 06:29:42.488: [app] INFO: Configuration: '/etc/open5gs/udm.yaml' (../lib/app/ogs-init.c:133)
+06/26 06:29:42.488: [app] INFO: File Logging: '/var/log/open5gs/udm.log' (../lib/app/ogs-init.c:136)
+06/26 06:29:42.491: [sbi] INFO: NF Service [nudm-ueau] (../lib/sbi/context.c:1841)
+06/26 06:29:42.491: [sbi] INFO: NF Service [nudm-uecm] (../lib/sbi/context.c:1841)
+06/26 06:29:42.491: [sbi] INFO: NF Service [nudm-sdm] (../lib/sbi/context.c:1841)
+06/26 06:29:42.507: [sbi] INFO: nghttp2_server() [https://udm.localdomain]:443 (../lib/sbi/nghttp2-server.c:409)
+06/26 06:29:42.507: [app] INFO: UDM initialize...done (../src/udm/app.c:31)
+06/26 06:29:42.586: [sbi] INFO: [78f73114-3385-41ef-bb8b-45793b885916] NF registered [Heartbeat:10s] (../lib/sbi/nf-sm.c:221)
+06/26 06:29:42.587: [sbi] INFO: [7905ea6a-3385-41ef-827f-e5b1481dd427] Subscription created until 2024-06-27T06:29:42.587249+00:00 [duration:86400,validity:86399.999606,patch:43199.999803] (../lib/sbi/nnrf-handler.c:813)
+06/26 06:29:42.588: [sbi] INFO: [7905f8d4-3385-41ef-827f-e5b1481dd427] Subscription created until 2024-06-27T06:29:42.587630+00:00 [duration:86400,validity:86399.999597,patch:43199.999798] (../lib/sbi/nnrf-handler.c:813)
